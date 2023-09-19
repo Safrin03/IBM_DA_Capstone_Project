@@ -9,4 +9,4 @@
  
  MODULE_5 - [BUILD A DASHBOARD](https://github.com/Safrin03/IBM_DA_Capstone_Project/tree/be9e13ea47296ab52b79bb60f334e077c540245e/Module%205%20-%20Build%20a%20Dashboard)
  
- MODULE_6 - FINDINGS REPORT 
+ MODULE_6 - [FINDINGS REPORT](https://github.com/Safrin03/IBM_DA_Capstone_Project/tree/df636588a8f8dbdd7f94c6c8fef3041c1dbe9a74/Module%206%20-%20Findings%20Report) 
