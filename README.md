@@ -7,6 +7,6 @@
  
  MODULE_4 - [DATA VISUALIZATION](https://github.com/Safrin03/IBM_DA_Capstone_Project/tree/86f474a6c0d757e54c7c49e1f1121c9503ca7fe6/Module%204%20-%20Data%20Visualization)
  
- MODULE_5 - BUILD A DASHBOARD
+ MODULE_5 - [BUILD A DASHBOARD](https://github.com/Safrin03/IBM_DA_Capstone_Project/tree/be9e13ea47296ab52b79bb60f334e077c540245e/Module%205%20-%20Build%20a%20Dashboard)
  
  MODULE_6 - FINDINGS REPORT 
