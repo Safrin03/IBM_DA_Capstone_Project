@@ -5,7 +5,7 @@
  
  MODULE_3 - [EXPLORATORY DATA ANALYSIS](https://github.com/Safrin03/IBM_DA_Capstone_Project/tree/a7d04ce3b71b1cb7e03c1a2fde6d6cc087ffd8d7/Module%203%20-%20Exploratory%20Data%20Analysis)
  
- MODULE_4 - DATA VISUALIZATION
+ MODULE_4 - [DATA VISUALIZATION](https://github.com/Safrin03/IBM_DA_Capstone_Project/tree/86f474a6c0d757e54c7c49e1f1121c9503ca7fe6/Module%204%20-%20Data%20Visualization)
  
  MODULE_5 - BUILD A DASHBOARD
  
