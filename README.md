@@ -1,4 +1,5 @@
-# IBM_DATA_ANALYST_CAPSTONE_PROJECT
+# Stack Overflow Survey Analysis
+
  MODULE_1 - [DATA_COLLECTION](https://github.com/Safrin03/IBM_DA_Capstone_Project/tree/cb1759ac10f408c5a69b791379554d641db25bf8/Module%201%20-%20Data%20Collection) 
  
  MODULE_2 - [DATA WRANGLING](https://github.com/Safrin03/IBM_DA_Capstone_Project/tree/74c22db9192d2cc5e72056c1433dd93c37d7dff3/Module%202%20-%20Data%20Wrangling) 
